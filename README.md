@@ -1,4 +1,5 @@
 IF YOU DONT WANT TO DOWNLOAD COPY THIS ↓ (not me)
+
 @import url('https://fonts.googleapis.com/css2?family=Chicle&family=Press+Start+2P&display=swap); </style>');
 @import url('https://discordstyles.github.io/SoftX/SoftX.css');
 @import url('https://discordstyles.github.io/SoftX/RadialGlow.css');
