@@ -1,0 +1,57 @@
+/**
+ * @name SUPET THE CAT
+ * @version 1.0
+ * @description A translucent/frosted glass Discord theme
+ * @author GREGDGamer1
+ * @website
+ * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/css/source.css
+ * @donate
+ * @invite
+ * @BDEditor Translucence
+*/
+
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css');
+
+:root {
+  --app-bg: url('https://i.imgur.com/p5ODOSp.jpeg');
+  --app-blur: 1.5px;
+  --app-margin: 24px;
+  --app-radius: 2px;
+  --accent-hue: 60;
+  --accent-saturation: 100%;
+  --accent-lightness: 50%;
+  --accent-opacity: 1;
+  --sidebar-color: rgba(0,0,0,0.4);
+  --main-content-color: rgba(0,0,0,0.2);
+  --undefined: 0;
+  --interactive-normal: #FFCC34;
+  --interactive-hover: #FFBF00;
+  --interactive-active: #D8A711;
+  --interactive-muted: #777;
+  --undefined: 0;
+  --background-modifier-hover: rgb(255,193,7,0.32);
+  --background-modifier-selected: rgba(255,255,255,0.125);
+  --message-color: rgb(255,191,0,1);
+  --message-radius: 8px;
+  --message-padding-top: 8px;
+  --message-padding-side: 8px;
+  --undefined: 0;
+  --reply-hue: 60;
+  --reply-saturation: 77%;
+  --reply-lightness: 61%;
+  --reply-opacity: 1;
+  --textarea-color: 255,193,7;
+  --textarea-alpha: 1;
+  --textarea-alpha-focus: 0.15;
+  --textarea-radius: 69px;
+  --card-color: rgb(255,193,7,1);
+  --card-color-hover: rgb(255,193,7,1);
+  --card-color-select: rgb(255,193,7,1);
+  --button-height: 32px;
+  --button-padding: 0 16px;
+  --button-radius: 16px;
+}
+
+/* Any custom CSS below here */
+
+
